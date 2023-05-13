@@ -1,13 +1,14 @@
 {
-    "attendees":[
-      {"fullName":"Aaryan Arora"},
-      {"fullName":"Saloni Gupta"},
-      {"fullName":"Neha Hafeez"},
-      {"fullName":"Burume Pascal"},
-      {"fullName":"Babatunde Hammed"},
-      {"fullName":"Juraez Junior"},
-      {"fullName":"Muhammad Samiullah"},
-      {"fullName":"Khalil Ahmad"},
-      {"fullName":"Haroon Abbasi"}
-    ]
+  "attendees":[
+    {"fullName":"Aaryan Arora"},
+    {"fullName":"Saloni Gupta"},
+    {"fullName":"Neha Hafeez"},
+    {"fullName":"Burume Pascal"},
+    {"fullName":"Babatunde Hammed"},
+    {"fullName":"Juraez Junior"},
+    {"fullName":"Muhammad Samiullah"},
+    {"fullName":"Khalil Ahmad"},
+    {"fullName":"Haroon Abbasi"},
+    {"fullName":"Dibyajyoti Dev Ray"}
+  ]
 }
